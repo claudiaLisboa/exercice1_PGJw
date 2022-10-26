@@ -1,0 +1,47 @@
+On branch main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+On branch main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 4dc12395109e70ad563f0f42f3c25dd8402fa244
+Author: Claudia Lisboa <ccalumby@gmail.com>
+Date:   Wed Oct 26 19:00:21 2022 -0400
+
+    updated filles: index.html,main.js,style.css
+
+commit 9236cc8d3bab1487ae2b2a50de57353d0e3b9c4f
+Author: Claudia Lisboa <ccalumby@gmail.com>
+Date:   Thu Oct 20 16:55:06 2022 -0400
+
+    created main js file
+
+commit a34eb12900d46de133cfb429974975d769a26989
+Author: Claudia Lisboa <ccalumby@gmail.com>
+Date:   Thu Oct 20 16:53:16 2022 -0400
+
+    created style file
+
+commit 7fc07fd6ff88e9951db1df1cf3c253192e9f5349
+Author: Claudia Lisboa <ccalumby@gmail.com>
+Date:   Thu Oct 20 16:45:11 2022 -0400
+
+    created index file
+
+commit 9737165f4b19fc63a73cd31e54f2170208fc811e
+Author: Claudia Lisboa <ccalumby@gmail.com>
+Date:   Thu Oct 20 16:07:57 2022 -0400
+
+    first commit

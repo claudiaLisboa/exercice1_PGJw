@@ -20,11 +20,12 @@ Commandes ici
 	c.	 main.js
 
 Commandes ici
+<img width="824" alt="5" src="https://user-images.githubusercontent.com/21189063/198333653-45588dc1-f9ae-43fd-93ad-2a6e47159387.png">
 
-<img width="824" alt="5" src="https://user-images.githubusercontent.com/21189063/198151156-173cab8e-392f-482a-8d80-ed3d58d7b727.png">
-<img width="856" alt="6" src="https://user-images.githubusercontent.com/21189063/198151651-adc348ae-20b7-462b-b63c-c336b433fc57.png">
-<img width="966" alt="7" src="https://user-images.githubusercontent.com/21189063/198151665-d6493086-9dc2-4a28-aa5b-a73b3c48755c.png">
-<img width="951" alt="8" src="https://user-images.githubusercontent.com/21189063/198153802-02dec25a-8ae9-4157-83f3-9cf45d8ab99e.png">
+<img width="856" alt="6" src="https://user-images.githubusercontent.com/21189063/198333693-c4d48e00-e1e9-4a31-8356-6a64cb37ef71.png">
+<img width="966" alt="7" src="https://user-images.githubusercontent.com/21189063/198333729-02005ba1-9401-4e78-914c-f5863f13be08.png">
+<img width="951" alt="8" src="https://user-images.githubusercontent.com/21189063/198333760-0eea96eb-0461-4f7f-96f3-e0d7a34f7324.png">
+
 
 
 3.	Vérifiez l’état de votre dépôt

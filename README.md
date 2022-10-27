@@ -18,10 +18,10 @@ Commandes ici
 	a.	index.html
 	b.	 style.css
 	c.	 main.js
-
+```
 Commandes ici
-<img width="824" alt="5" src="https://user-images.githubusercontent.com/21189063/198333653-45588dc1-f9ae-43fd-93ad-2a6e47159387.png">
 
+<img width="824" alt="5" src="https://user-images.githubusercontent.com/21189063/198333653-45588dc1-f9ae-43fd-93ad-2a6e47159387.png">
 <img width="856" alt="6" src="https://user-images.githubusercontent.com/21189063/198333693-c4d48e00-e1e9-4a31-8356-6a64cb37ef71.png">
 <img width="966" alt="7" src="https://user-images.githubusercontent.com/21189063/198333729-02005ba1-9401-4e78-914c-f5863f13be08.png">
 <img width="951" alt="8" src="https://user-images.githubusercontent.com/21189063/198333760-0eea96eb-0461-4f7f-96f3-e0d7a34f7324.png">
@@ -43,17 +43,21 @@ Commandes ici
 
 
 5.	Faites la commande suivante : 
-`` git status >> git_exercice1.log && git log >> git_exercice1.log``
-
+```
+ git status >> git_exercice1.log && git log >> git_exercice1.log
+ 
+```
 <img width="1045" alt="11" src="https://user-images.githubusercontent.com/21189063/198155994-aa6ff07d-3777-4b59-965a-3d89e22853fb.png">
 
 
 6.	Faites un commit pour ajouter le nouveau fichier créer (git_exercice1.log)
 ```
 Commandes ici
+```
 
 <img width="996" alt="12" src="https://user-images.githubusercontent.com/21189063/198157359-6ba60229-e5e2-453e-b0a3-fe6615925f17.png">
-
+<img width="797" alt="13" src="https://user-images.githubusercontent.com/21189063/198337583-8d5f903b-0b7b-4020-a34d-b1db088ec910.png">
+<img width="1044" alt="14" src="https://user-images.githubusercontent.com/21189063/198337621-63a8dd57-e0fe-40b6-84c3-06049a1fd9a2.png">
 
 ## Numéro 2 : Travailler avec un distant (remote)
 
